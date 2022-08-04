@@ -1,0 +1,20 @@
+.main{
+  text-align: center;
+  
+}
+
+.main h1{
+  font-size: 2.3rem;
+  font-family: 'Cinzel Decorative', cursive;
+  margin: 10px 0;
+}
+
+.main p{
+  font-size: 1rem;
+  font-family: 'Viaoda Libre', cursive;
+  margin-bottom: 10px;
+}
+.main div img{
+  border: 7px solid lightgray;
+  margin-bottom: 10px;
+}
